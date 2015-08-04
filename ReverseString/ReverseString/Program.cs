@@ -10,7 +10,7 @@ namespace ReverseString
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World! -> " + ReverseString("Hello World!"));
+            Console.WriteLine("Hello World! <-> " + ReverseString("Hello World!"));
             Console.ReadLine();
         }
 

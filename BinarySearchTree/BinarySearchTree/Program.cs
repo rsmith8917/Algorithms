@@ -15,11 +15,9 @@ namespace BinarySearchTree
 
             Random rnd = new Random();
 
-            List<int> list = new List<int>();
-
-            for (int i = 0; i < 200; i++)
+            for (int i = 0; i < 10000; i++)
             {
-                int num = rnd.Next(0, 200);
+                int num = rnd.Next(0, 10000);
                 if (bst != null)
                 {
                     bst.Insert(num);
@@ -28,8 +26,6 @@ namespace BinarySearchTree
                 {
                     bst = new BSTNode<int>(num);
                 }
-                
-                list.Add(num);
             }
 
             Console.WriteLine(bst);
@@ -37,6 +33,8 @@ namespace BinarySearchTree
             Console.ReadLine();
         }
     }
+
+
 
     public static class BSTUtils<T> where T : IComparable
     {
