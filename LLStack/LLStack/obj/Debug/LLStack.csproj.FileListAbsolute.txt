@@ -1,0 +1,9 @@
+c:\users\roberts.bci\documents\visual studio 2015\Projects\LLStack\LLStack\bin\Debug\LLStack.exe.config
+c:\users\roberts.bci\documents\visual studio 2015\Projects\LLStack\LLStack\bin\Debug\LLStack.exe
+c:\users\roberts.bci\documents\visual studio 2015\Projects\LLStack\LLStack\bin\Debug\LLStack.pdb
+c:\users\roberts.bci\documents\visual studio 2015\Projects\LLStack\LLStack\obj\Debug\LLStack.csprojResolveAssemblyReference.cache
+c:\users\roberts.bci\documents\visual studio 2015\Projects\LLStack\LLStack\obj\Debug\LLStack.exe
+c:\users\roberts.bci\documents\visual studio 2015\Projects\LLStack\LLStack\obj\Debug\LLStack.pdb
+C:\Users\RobertS.BCI\Documents\Visual Studio 2015\Projects\Algorithms\LLStack\LLStack\bin\Debug\LLStack.exe.config
+C:\Users\RobertS.BCI\Documents\Visual Studio 2015\Projects\Algorithms\LLStack\LLStack\obj\Debug\LLStack.exe
+C:\Users\RobertS.BCI\Documents\Visual Studio 2015\Projects\Algorithms\LLStack\LLStack\obj\Debug\LLStack.pdb

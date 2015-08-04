@@ -1,0 +1,6 @@
+c:\users\roberts.bci\documents\visual studio 2015\Projects\NonRepeatingInteger\NonRepeatingInteger\bin\Debug\NonRepeatingInteger.exe.config
+c:\users\roberts.bci\documents\visual studio 2015\Projects\NonRepeatingInteger\NonRepeatingInteger\bin\Debug\NonRepeatingInteger.exe
+c:\users\roberts.bci\documents\visual studio 2015\Projects\NonRepeatingInteger\NonRepeatingInteger\bin\Debug\NonRepeatingInteger.pdb
+c:\users\roberts.bci\documents\visual studio 2015\Projects\NonRepeatingInteger\NonRepeatingInteger\obj\Debug\NonRepeatingInteger.csprojResolveAssemblyReference.cache
+c:\users\roberts.bci\documents\visual studio 2015\Projects\NonRepeatingInteger\NonRepeatingInteger\obj\Debug\NonRepeatingInteger.exe
+c:\users\roberts.bci\documents\visual studio 2015\Projects\NonRepeatingInteger\NonRepeatingInteger\obj\Debug\NonRepeatingInteger.pdb

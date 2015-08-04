@@ -1,0 +1,6 @@
+c:\users\roberts.bci\documents\visual studio 2015\Projects\RemoveWhitespace\RemoveWhitespace\bin\Debug\RemoveWhitespace.exe.config
+c:\users\roberts.bci\documents\visual studio 2015\Projects\RemoveWhitespace\RemoveWhitespace\bin\Debug\RemoveWhitespace.exe
+c:\users\roberts.bci\documents\visual studio 2015\Projects\RemoveWhitespace\RemoveWhitespace\bin\Debug\RemoveWhitespace.pdb
+c:\users\roberts.bci\documents\visual studio 2015\Projects\RemoveWhitespace\RemoveWhitespace\obj\Debug\RemoveWhitespace.csprojResolveAssemblyReference.cache
+c:\users\roberts.bci\documents\visual studio 2015\Projects\RemoveWhitespace\RemoveWhitespace\obj\Debug\RemoveWhitespace.exe
+c:\users\roberts.bci\documents\visual studio 2015\Projects\RemoveWhitespace\RemoveWhitespace\obj\Debug\RemoveWhitespace.pdb

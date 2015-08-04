@@ -1,0 +1,6 @@
+c:\users\roberts.bci\documents\visual studio 2015\Projects\ReverseInteger\ReverseInteger\bin\Debug\ReverseInteger.exe.config
+c:\users\roberts.bci\documents\visual studio 2015\Projects\ReverseInteger\ReverseInteger\bin\Debug\ReverseInteger.exe
+c:\users\roberts.bci\documents\visual studio 2015\Projects\ReverseInteger\ReverseInteger\bin\Debug\ReverseInteger.pdb
+c:\users\roberts.bci\documents\visual studio 2015\Projects\ReverseInteger\ReverseInteger\obj\Debug\ReverseInteger.csprojResolveAssemblyReference.cache
+c:\users\roberts.bci\documents\visual studio 2015\Projects\ReverseInteger\ReverseInteger\obj\Debug\ReverseInteger.exe
+c:\users\roberts.bci\documents\visual studio 2015\Projects\ReverseInteger\ReverseInteger\obj\Debug\ReverseInteger.pdb

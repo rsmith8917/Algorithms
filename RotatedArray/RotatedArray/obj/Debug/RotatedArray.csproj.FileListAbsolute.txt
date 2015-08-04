@@ -1,0 +1,6 @@
+c:\users\roberts.bci\documents\visual studio 2015\Projects\RotatedArray\RotatedArray\bin\Debug\RotatedArray.exe.config
+c:\users\roberts.bci\documents\visual studio 2015\Projects\RotatedArray\RotatedArray\bin\Debug\RotatedArray.exe
+c:\users\roberts.bci\documents\visual studio 2015\Projects\RotatedArray\RotatedArray\bin\Debug\RotatedArray.pdb
+c:\users\roberts.bci\documents\visual studio 2015\Projects\RotatedArray\RotatedArray\obj\Debug\RotatedArray.csprojResolveAssemblyReference.cache
+c:\users\roberts.bci\documents\visual studio 2015\Projects\RotatedArray\RotatedArray\obj\Debug\RotatedArray.exe
+c:\users\roberts.bci\documents\visual studio 2015\Projects\RotatedArray\RotatedArray\obj\Debug\RotatedArray.pdb

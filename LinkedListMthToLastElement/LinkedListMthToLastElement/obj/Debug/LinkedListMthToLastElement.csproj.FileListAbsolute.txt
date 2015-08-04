@@ -1,0 +1,6 @@
+c:\users\roberts.bci\documents\visual studio 2015\Projects\LinkedListMthToLastElement\LinkedListMthToLastElement\bin\Debug\LinkedListMthToLastElement.exe.config
+c:\users\roberts.bci\documents\visual studio 2015\Projects\LinkedListMthToLastElement\LinkedListMthToLastElement\bin\Debug\LinkedListMthToLastElement.exe
+c:\users\roberts.bci\documents\visual studio 2015\Projects\LinkedListMthToLastElement\LinkedListMthToLastElement\bin\Debug\LinkedListMthToLastElement.pdb
+c:\users\roberts.bci\documents\visual studio 2015\Projects\LinkedListMthToLastElement\LinkedListMthToLastElement\obj\Debug\LinkedListMthToLastElement.csprojResolveAssemblyReference.cache
+c:\users\roberts.bci\documents\visual studio 2015\Projects\LinkedListMthToLastElement\LinkedListMthToLastElement\obj\Debug\LinkedListMthToLastElement.exe
+c:\users\roberts.bci\documents\visual studio 2015\Projects\LinkedListMthToLastElement\LinkedListMthToLastElement\obj\Debug\LinkedListMthToLastElement.pdb

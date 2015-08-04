@@ -1,0 +1,9 @@
+c:\users\roberts.bci\documents\visual studio 2015\Projects\MissingNumbers\MissingNumbers\bin\Debug\MissingNumbers.exe.config
+c:\users\roberts.bci\documents\visual studio 2015\Projects\MissingNumbers\MissingNumbers\bin\Debug\MissingNumbers.exe
+c:\users\roberts.bci\documents\visual studio 2015\Projects\MissingNumbers\MissingNumbers\bin\Debug\MissingNumbers.pdb
+c:\users\roberts.bci\documents\visual studio 2015\Projects\MissingNumbers\MissingNumbers\obj\Debug\MissingNumbers.csprojResolveAssemblyReference.cache
+c:\users\roberts.bci\documents\visual studio 2015\Projects\MissingNumbers\MissingNumbers\obj\Debug\MissingNumbers.exe
+c:\users\roberts.bci\documents\visual studio 2015\Projects\MissingNumbers\MissingNumbers\obj\Debug\MissingNumbers.pdb
+C:\Users\RobertS.BCI\Documents\Visual Studio 2015\Projects\Algorithms\MissingNumbers\MissingNumbers\bin\Debug\MissingNumbers.exe.config
+C:\Users\RobertS.BCI\Documents\Visual Studio 2015\Projects\Algorithms\MissingNumbers\MissingNumbers\obj\Debug\MissingNumbers.exe
+C:\Users\RobertS.BCI\Documents\Visual Studio 2015\Projects\Algorithms\MissingNumbers\MissingNumbers\obj\Debug\MissingNumbers.pdb
