@@ -1,0 +1,6 @@
+C:\Users\Robert\Documents\Visual Studio 2015\Projects\FindCommonIntsInArrays\FindCommonIntsInArrays\bin\Debug\PairsThatAddToTarget.exe.config
+C:\Users\Robert\Documents\Visual Studio 2015\Projects\FindCommonIntsInArrays\FindCommonIntsInArrays\obj\Debug\PairsThatAddToTarget.exe
+C:\Users\Robert\Documents\Visual Studio 2015\Projects\FindCommonIntsInArrays\FindCommonIntsInArrays\obj\Debug\PairsThatAddToTarget.pdb
+C:\Users\Robert\Documents\Visual Studio 2015\Projects\FindCommonIntsInArrays\FindCommonIntsInArrays\bin\Debug\PairsThatAddToTarget.exe
+C:\Users\Robert\Documents\Visual Studio 2015\Projects\FindCommonIntsInArrays\FindCommonIntsInArrays\bin\Debug\PairsThatAddToTarget.pdb
+C:\Users\Robert\Documents\Visual Studio 2015\Projects\FindCommonIntsInArrays\FindCommonIntsInArrays\obj\Debug\FindCommonIntsInArrays.csprojResolveAssemblyReference.cache

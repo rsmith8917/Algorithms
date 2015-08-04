@@ -1,0 +1,6 @@
+c:\users\robert\documents\visual studio 2015\Projects\ReverseLinkedList\ReverseLinkedList\bin\Debug\ReverseLinkedList.exe.config
+c:\users\robert\documents\visual studio 2015\Projects\ReverseLinkedList\ReverseLinkedList\bin\Debug\ReverseLinkedList.exe
+c:\users\robert\documents\visual studio 2015\Projects\ReverseLinkedList\ReverseLinkedList\bin\Debug\ReverseLinkedList.pdb
+c:\users\robert\documents\visual studio 2015\Projects\ReverseLinkedList\ReverseLinkedList\obj\Debug\ReverseLinkedList.csprojResolveAssemblyReference.cache
+c:\users\robert\documents\visual studio 2015\Projects\ReverseLinkedList\ReverseLinkedList\obj\Debug\ReverseLinkedList.exe
+c:\users\robert\documents\visual studio 2015\Projects\ReverseLinkedList\ReverseLinkedList\obj\Debug\ReverseLinkedList.pdb

@@ -1,0 +1,5 @@
+c:\users\robert\documents\visual studio 2015\Projects\PairsThatAddToTarget\PairsThatAddToTarget\bin\Debug\PairsThatAddToTarget.exe.config
+c:\users\robert\documents\visual studio 2015\Projects\PairsThatAddToTarget\PairsThatAddToTarget\bin\Debug\PairsThatAddToTarget.exe
+c:\users\robert\documents\visual studio 2015\Projects\PairsThatAddToTarget\PairsThatAddToTarget\bin\Debug\PairsThatAddToTarget.pdb
+c:\users\robert\documents\visual studio 2015\Projects\PairsThatAddToTarget\PairsThatAddToTarget\obj\Debug\PairsThatAddToTarget.exe
+c:\users\robert\documents\visual studio 2015\Projects\PairsThatAddToTarget\PairsThatAddToTarget\obj\Debug\PairsThatAddToTarget.pdb

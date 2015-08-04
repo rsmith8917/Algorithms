@@ -1,0 +1,5 @@
+c:\users\robert\documents\visual studio 2015\Projects\ParseInt\ParseInt\bin\Debug\ParseInt.exe.config
+c:\users\robert\documents\visual studio 2015\Projects\ParseInt\ParseInt\bin\Debug\ParseInt.exe
+c:\users\robert\documents\visual studio 2015\Projects\ParseInt\ParseInt\bin\Debug\ParseInt.pdb
+c:\users\robert\documents\visual studio 2015\Projects\ParseInt\ParseInt\obj\Debug\ParseInt.exe
+c:\users\robert\documents\visual studio 2015\Projects\ParseInt\ParseInt\obj\Debug\ParseInt.pdb
